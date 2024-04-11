@@ -18,8 +18,8 @@
 <br/>
 
 <a href="https://github.com/patapchuk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patapchuk&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patapchuk&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitalikpatapchuk&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalikpatapchuk&theme=buefy&layout=compact" />
 </a>
 
 <br/>
